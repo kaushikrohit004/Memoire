@@ -56,11 +56,3 @@
 
 
 ***
-
-### Installation 
-
-Install the app from the Google Play Store [here](https://play.google.com/store/apps/details?id=com.firstapp.kunj.reminder)
-
-------------------------------------------
-### License
-This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
